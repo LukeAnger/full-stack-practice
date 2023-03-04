@@ -1,0 +1,19 @@
+{
+  "name": "full-stack-practice",
+  "version": "1.0.0",
+  "description": "Practice connecting front to back MERN stack app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LukeAnger/full-stack-practice.git"
+  },
+  "author": "Luke Anger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LukeAnger/full-stack-practice/issues"
+  },
+  "homepage": "https://github.com/LukeAnger/full-stack-practice#readme"
+}
